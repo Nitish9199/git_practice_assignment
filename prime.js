@@ -1,6 +1,6 @@
 let prime = 0;
-for(let i=1 ; i=num,lenth-1; i++){
-if(num%i<=0){
+for(let i=1 ; i<num.lenth-1; i++){
+if(num%i==0){
 prime++
 }
 }
